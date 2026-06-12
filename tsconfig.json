@@ -4,24 +4,27 @@
     "strict": true,
     "paths": {
       "@/*": [
-        "./src/*"
+        "./*"
       ],
-      "@/app/*": [
+      "@app/*": [
         "./src/app/*"
       ],
-      "@/assets/*": [
+      "@assets/*": [
         "./src/assets/*"
       ],
-      "@/constants/*": [
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@constants/*": [
         "./src/constants/*"
       ],
-      "@/hooks/*": [
+      "@hooks/*": [
         "./src/hooks/*"
       ],
-      "@/images/*": [
+      "@images/*": [
         "./src/images/*"
       ],
-      "@/utils/*": [
+      "@utils/*": [
         "./src/utils/*"
       ],
     }
