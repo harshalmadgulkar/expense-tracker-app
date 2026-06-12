@@ -6,9 +6,24 @@
       "@/*": [
         "./src/*"
       ],
+      "@/app/*": [
+        "./src/app/*"
+      ],
       "@/assets/*": [
-        "./assets/*"
-      ]
+        "./src/assets/*"
+      ],
+      "@/constants/*": [
+        "./src/constants/*"
+      ],
+      "@/hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@/images/*": [
+        "./src/images/*"
+      ],
+      "@/utils/*": [
+        "./src/utils/*"
+      ],
     }
   },
   "include": [
